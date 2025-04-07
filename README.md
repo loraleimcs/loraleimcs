@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loraleimcs
 - 👀 I’m interested in geospatial data analysis and machine learning!
-- 🌱 I’m currently learning about streamlining spatial analysis with ArcPy and diving deeper into Google Earth Engine for satellite imager
+- 🌎 I’m currently learning about streamlining spatial analysis with ArcPy and diving deeper into Google Earth Engine for satellite imagery.
 - 📫 How to reach me loralei.graycen@gmail.com
 - 😄 Pronouns:she/her
 
